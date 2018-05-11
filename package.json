@@ -25,11 +25,15 @@
 =======
   "name": "react-crm-demo",
 <<<<<<< HEAD
+<<<<<<< HEAD
   "version": "1.0.0",
 >>>>>>> 9d6dffe (demo 1.0.0)
 =======
   "version": "1.0.1",
 >>>>>>> c8f6746 (1.0.1)
+=======
+  "version": "1.0.2",
+>>>>>>> 0edcd23 (1.0.2)
   "description": "Reetek CRM using React and Material-UI",
   "engines": {
     "npm": ">=3"
