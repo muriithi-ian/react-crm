@@ -27,6 +27,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "version": "1.0.0",
 >>>>>>> 9d6dffe (demo 1.0.0)
 =======
@@ -38,6 +39,9 @@
 =======
   "version": "1.0.3",
 >>>>>>> 493a15f (1.0.3)
+=======
+  "version": "1.0.4",
+>>>>>>> 20dac19 (1.0.4)
   "description": "Reetek CRM using React and Material-UI",
   "engines": {
     "npm": ">=3"
