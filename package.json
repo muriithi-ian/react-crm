@@ -26,6 +26,7 @@
   "name": "react-crm-demo",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "version": "1.0.0",
 >>>>>>> 9d6dffe (demo 1.0.0)
 =======
@@ -34,6 +35,9 @@
 =======
   "version": "1.0.2",
 >>>>>>> 0edcd23 (1.0.2)
+=======
+  "version": "1.0.3",
+>>>>>>> 493a15f (1.0.3)
   "description": "Reetek CRM using React and Material-UI",
   "engines": {
     "npm": ">=3"
