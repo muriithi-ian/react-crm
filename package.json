@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "version": "1.2.4",
 =======
   "version": "1.2.6",
@@ -17,6 +18,9 @@
 =======
   "version": "1.2.9",
 >>>>>>> f397099 (1.2.9)
+=======
+  "version": "1.2.10",
+>>>>>>> 2f64a67 (1.2.10)
   "description": "Reetek CRM using React and Material-UI",
   "engines": {
     "npm": ">=3"
