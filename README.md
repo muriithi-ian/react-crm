@@ -1,21 +1,18 @@
 # React Redux CRM
 
-
 > A reusable CRM project for real-world business based on React 15.4, React-Redux & Material-UI
 
 This is the very first version, feel free to use for any app. Contributions are always welcome!
 
-The goal of this starter project is to create reusable project for real-world business. To achieve this target, we need a solution which should include simple authentication process, restful API with token support and simple but elegant UI design. 
-
+The goal of this starter project is to create reusable project for real-world business. To achieve this target, we need a solution which should include simple authentication process, restful API with token support and simple but elegant UI design.
 
 #### Features
 
-* This project is built on the top of React/Redux. 
-* The UI part of this project uses Material-UI. 
-* This project uses Redux-Thunk to support back-end API.
-* To simulate real-world business, this starter project chooses Json-Server as fake Restful API. (You can simple replace it with your own API)
-* CRUD functions for Customer, Order, Product
-
+- This project is built on the top of React/Redux.
+- The UI part of this project uses Material-UI.
+- This project uses Redux-Thunk to support back-end API.
+- To simulate real-world business, this starter project chooses Json-Server as fake Restful API. (You can simple replace it with your own API)
+- CRUD functions for Customer, Order, Product
 
 #### Live Demo
 [Demo](https://react-app-demo.harryho.org) The demo is just a proof of concept. It doesn't have back-end API and all features of master branch.
@@ -31,11 +28,9 @@ The goal of this starter project is to create reusable project for real-world bu
 
 ![Screenshot4](screenshots/screenshot-4.jpg)
 
-
 ## Build Setup
 
-``` bash
-
+```bash
 # Clone project
 git clone https://github.com/harryho/react-crm.git
 
@@ -84,23 +79,29 @@ npm run start
 
 # Visit the app at [http://localhost:4000](http://localhost:4000)
 
+## development
+npm run demo
+
+
+## build for dev
+npm run build
+
+## build for production
+npm run build --mode production
 ```
-
-
 
 # Welcome to fork or clone!
 
 For detailed explanation on how things work, checkout following links please.
 
-* [React](https://facebook.github.io/react/)
-* [Redux](http://redux.js.org/)
-* [Material-UI](http://www.material-ui.com/)
-
+- [React](https://facebook.github.io/react/)
+- [Redux](http://redux.js.org/)
+- [Material-UI](http://www.material-ui.com/)
 
 #### Alternatives
 
 There are another two similar projects respectively built on the Vue.js and Angular. If you have interests in those technical stacks. You can find and clone those repositories below.
 
-* [Ng-MD-App](https://github.com/harryho/ng-md-app.git).
-* [Ng4Crm](https://github.com/harryho/ng4crm.git). (It is no longer maintained with latest Angular)
-* [Vue2Crm](https://github.com/harryho/vue2crm.git).
+- [Ng-MD-App](https://github.com/harryho/ng-md-app.git).
+- [Ng4Crm](https://github.com/harryho/ng4crm.git). (It is no longer maintained with latest Angular)
+- [Vue2Crm](https://github.com/harryho/vue2crm.git).
