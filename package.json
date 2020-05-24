@@ -9,6 +9,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "version": "1.2.4",
 =======
   "version": "1.2.6",
@@ -156,6 +157,9 @@
     "webpack-md5-hash": "0.0.5"
 =======
   "version": "2.0.0-alpha",
+=======
+  "version": "2.0.0",
+>>>>>>> eb7c056 (v2.0.0)
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.9.13",
