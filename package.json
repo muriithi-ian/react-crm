@@ -11,6 +11,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "version": "1.2.4",
 =======
   "version": "1.2.6",
@@ -164,6 +165,9 @@
 =======
   "version": "2.1.0",
 >>>>>>> 27f5094 (update snapshots)
+=======
+  "version": "2.1.1",
+>>>>>>> 7bb3d21 (2.1.1)
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.9.13",
