@@ -20,7 +20,7 @@ The goal of this starter project is to create reusable project for real-world bu
 
 ### Live Demo
 
-[Demo](https://react-app-demo.harryho.org) The demo is just a proof of concept. It doesn't have back-end API and all features of master branch.
+[Demo](https://demo-react-crm.netlify.app) The demo is just a proof of concept. It doesn't have back-end API and all features of master branch.
 
 ### Screenshots
 
