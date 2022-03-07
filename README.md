@@ -95,14 +95,6 @@ For detailed explanation on how things work, checkout following links please.
 - [Redux](http://redux.js.org/)
 - [Material-UI](http://www.material-ui.com/)
 
-### Alternatives
-
-There are another two similar projects respectively built on the Vue.js and Angular. If you have interests in those technical stacks. You can find and clone those repositories below.
-
-- [Ng-MD-App](https://github.com/harryho/ng-md-app.git).
-- [Ng4Crm](https://github.com/harryho/ng4crm.git). (It is no longer maintained with latest Angular)
-- [Vue-Crm](https://github.com/harryho/vue-crm.git).
-
 ### Change log
 
 - May 2020 - Merge the branch rctsx to master
