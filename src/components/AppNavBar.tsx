@@ -22,10 +22,13 @@ interface AppNavBarProps {
   styles: TODO;
 }
 // class Header extends React.Component {
-const AppNavBar: React.FC<AppNavBarProps> = ({ styles, handleDrawerToggle}) => {
-const handleClick = () => {
+const AppNavBar: React.FC<AppNavBarProps> = ({
+  styles,
+  handleDrawerToggle,
+}) => {
+  const handleClick = () => {
     window.open(
-      "https://github.com/harryho/react-crm",
+      "https://github.com/muriithi-ian/react-crm",
       undefined,
       undefined,
       false
@@ -34,15 +37,13 @@ const handleClick = () => {
 
   let style = useStyles(styles);
 
-  
-
   return (
     <div>
       <AppBar position="fixed" style={styles.appBar}>
         <Toolbar className={styles.toolbar}>
           <IconButton
             edge="start"
-               onClick={handleDrawerToggle}
+            onClick={handleDrawerToggle}
             color="inherit"
             aria-label="menu"
           >
@@ -52,9 +53,7 @@ const handleClick = () => {
             Demo
           </Typography>
           <Tooltip title="GitHub" aria-label="add">
-            <IconButton
-              onClick={handleClick}
-            >
+            <IconButton onClick={handleClick}>
               <svg
                 height="30"
                 viewBox="0 0 16 16"
@@ -73,6 +72,6 @@ const handleClick = () => {
       </AppBar>
     </div>
   );
-}
+};
 
 export default AppNavBar;

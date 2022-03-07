@@ -32,18 +32,17 @@ The goal of this starter project is to create reusable project for real-world bu
 
 <!-- ![Screenshot4](screenshots/screenshot-4.jpg) -->
 
-----
+---
 
 Storybook
-  
-![Screenshot4](screenshots/screenshot-6.jpg)
 
+![Screenshot4](screenshots/screenshot-6.jpg)
 
 ## Build Setup
 
 ```bash
 # Clone project
-git clone https://github.com/harryho/react-crm.git
+git clone https://github.com/muriithi-ian/react-crm.git
 
 
 # install the packages with npm
@@ -66,9 +65,7 @@ npm run build
 
 ```
 
-
-
-## Docker 
+## Docker
 
 ```bash
 ## Run / Test release without building new image
@@ -108,15 +105,14 @@ There are another two similar projects respectively built on the Vue.js and Angu
 
 ### Change log
 
-- May 2020 -  Merge the branch rctsx to master
+- May 2020 - Merge the branch rctsx to master
 
   After the merge, the whole project moved to new techncial stack - TypeScript 3. Also, the Material-UI is upgraded to 4.x version.
-
 
 - Dec 2018 - Rebase demo branch to master
 
   New master doesn't rely on Json-Server as fake API. It will only have Readonly fake API. It means any new or updated data will be stored to any physical file. All test data will be rolled back after system restart.
 
-- May 2018 -  Create an archived branch json-server
+- May 2018 - Create an archived branch json-server
 
   This branch was the master which used Json-Server as fake API. Considering the hiccup of setting Json-Server up and maintenance, it will be replaced by fake service ( Readonly fake API). You still can find clone this branch by branch name **json-server**, but it will be no longer updated. It is an archived branch.
